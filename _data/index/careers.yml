@@ -1,30 +1,59 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: DevCycle Ltd
+    i18n: devcycle_ltd
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I founded and am currently the CTO of a software consultancy, DevCycle. I have worked with organisations as varied as multinational banks to social media and finance start-ups. I take a holistic approach and use tactical approaches to deliver strategic gains. I believe that scaling a business is built on scaling it's technology which is built on a sustainable approach to software development based on strong software and architectural principles. Getting the engineering practices right leads to a scalable engineering team, scalable software and sustainable growth.
+    i18n: devcycle_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Mar. 2015
+    i18n: devcycle_date
   job:
     detail: CTO
-    i18n: company_a_job
+    i18n: devcycle_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Obrizum Group
+    i18n: obrizum_group
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Obrizum as VP of Technology My role included but was not limited to, providing hands on support to the Head of Engineering on a range of key projects, delivering hands on support in ensuring scalability of platform infrastructure, providing advice on team structures and processes to enable greater efficiency, driving commercial outcomes through supporting the prioritisation of tasks, supporting the technical hiring activities, assisting with the implementation of technical & procedural measures to support information security management.
+
+    i18n: obrizum_group_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Jan. 2023
+    i18n: obrizum_group_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: VP of Technology
+    i18n: obrizum_group_job
+  icon: fa-plus-square
+
+- name:
+    detail: Opencast Software
+    i18n: opencast_software
+  desc:
+    detail: I was CTO of Opencast Software, a software development consultancy based in Newcastle Upon Tyne. I was responsible for all software engineering both internal and in our clients. I developed software engineering practices, software architecture services, delivery methodologies and managed all the software development staff. At Opencast I worked with multinational companies, government departments, finance, insurance, online gaming companies amongst others. I acted as the senior consultant and delivered software development projects, digital/agile/lean transformations, cloud migrations and architecture reviews.
+    i18n: devcycle_desc
+  date:
+    detail: Nov. 2012
+    i18n: opencast_date
+  job:
+    detail: CTO
+    i18n: opencast_job
+  icon: fa-plus-square
+
+- name:
+    detail: Capgemini Financial Services UK
+    i18n: capgemini_fs
+  desc:
+    detail: I was the Practice Head of Java and Open Source Software for Capgemini FS UK. I was responsible for a team of up to 80 engineers working across dozens of clients. I developed technical strategy and services for CG to sell as well as delivering several digital transformation projects, architectural transformations, and individual software deliveries for many clients
+    i18n: devcycle_desc
+  date:
+    detail: Oct. 2007
+    i18n: capgemini_date
+  job:
+    detail: Practice Head of Java & OSS
+    i18n: capgemini_job
   icon: fa-plus-square
