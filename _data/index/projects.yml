@@ -1,22 +1,34 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+- name: Obrizum
+  i18n: obrizum
+  url: https://obrizum.com/
+  img: /static/assets/img/landing/cropped-OBRIZUM_black2.png
+  desc: As VP of Technology at Obrizum, I worked with the CTO, CPO and Principal Engineer to reorganise the engineers into two product stream teams, a complex subsystem team, and a cloud platform team. The cloud platform team was particularly key as it provides the foundation for the CTO function to move quickly and remain portable across regions while satisfying clients privacy concerns. I also advised the data science team on software engineering principles & architecture. I established a software engineering community of practice to promote good software hygene and worked with the CPO to develop communication channels to the business around maintenance and issue management.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Clash (Huddles) App
+  i18n: clash-app
+  url: https://clashapp.co/
+  img: /static/assets/img/landing/huddles.png
+  desc: I worked with ClashApp (now Huddles) to develop their social by managing the migration of 4 million accounts from an acquired social media platform. I assisted in introducing new product management and engineering practices. I helped migrate their architecture to a more modular and event driven approach to allow better time to market and scalability. I also acted as an interim member of the Exec during one of the technical founders paternity leave.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+
+- name: USwitch (R-VU)
+  i18n: uswitch
+  url: https://www.uswitch.com/
+  img: /static/assets/img/landing/uswitch.png
+  desc: I came into USwitch (R-VU) to back fill for a team that had recently left. I was responsible for maintaining and rearchitecting two data ingestion platforms for USwitch. During my time at USwitch I rearchitected the platforms to reduce complexity, simplify maintenance and changes and clarified context boundaries. In addition to adding new features/data, I added many new diagnostic tools for the commercial team & wrote 3 new microservices, decommissioned 5 services and rearchitected 6 services. The majority of these were written in Clojure/ClojureScript
+
+
+- name: Sage (UK)
+  i18n: sage
+  url: https://www.sage.com/
+  img: /static/assets/img/landing/sage-logo.png
+  desc: I acted as a principal developer and software architect and delivered the architectural approach for three new services along with providing coaching on functional programming and lean process. Additionally, I provided a holistic review of architecture, process and cross team communication.
+
+- name: Build IT Right
+  i18n: bitrconf
+  url: https://bitrconf.org/
+  img: /static/assets/img/landing/BITR_logo_dark.png
+  desc: I am the co-founder of the Build IT Right software development conference based in the North East of England (Newcastle Upon Tyne). I am also a member of the programme committee and I regularly engaged in sourcing speakers and sponsors.

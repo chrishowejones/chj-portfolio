@@ -1,16 +1,16 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Chris H-J
+title: Chris Howe-Jones
 description: Chris' personal portfolio and CV.
-keywords: CTO,Software Architecture,Sofware Development,Public Speaker
+keywords: CTO,Software Architecture,Software Development,Public Speaker
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://chrishowejones.github.io/chj-portfolio  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /chj-portfolio/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
+author:  # change following line to your information.
   name: Chris Howe-Jones  # Be used at blog posts' author.
   first_name: Chris  # Be used at index page about me section.
   last_name: Howe-Jones  # Be used at index page about me section.
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am an experienced CTO, technical leader, software architect and engineer. I've worked in organisations as varied as multinationals to start-ups and led teams from 5 to 80 in size. I have a deep understanding of modern software engineering, architecture and languages which I use to steer stragegy for organisations looking to use software as their differentiator.    # Describe yourself.
+  desc: I am an experienced CTO, technical leader, software architect and engineer. I've worked in organisations as varied as multinationals to start-ups and led teams from 5 to 80 in size. I have a deep understanding of modern software engineering, architecture and languages which I use to steer strategy for organisations looking to use software as their differentiator.    # Describe yourself.
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
