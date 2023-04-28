@@ -1,12 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Hobbs
+  first_name: Fiona
+  desc: CTO
+  website: https://www.linkedin.com/in/fihobbs/
+  email: fiona.m.mcdonald@gmail.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Dvorsak
+  first_name: Eric
+  desc: CTO
+  website: linkedin.com/in/eric-dvorsak-58336837
+  email: eric.dvorsak@gmail.com
