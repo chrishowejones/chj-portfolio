@@ -2,8 +2,11 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
+- src: landing/software_ecosystem_feedback3.png
   title: first banner image
 
-- src: landing/header_two.jpg
+- src: landing/pbt-screenshot.png
   title: second banner image
+
+- src: landing/ecosystems_feedback.png
+  title: third banner image

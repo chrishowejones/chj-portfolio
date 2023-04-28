@@ -20,14 +20,14 @@ author:  # change following line to your information.
   facebook_username:   # Leave blank if you don't have now
   twitter_username: agile_geek  # Leave blank if you don't have now
   email: chris.howejones@gmail.com  # Leave blank if you don't have now
-  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://howe-jones.co.uk  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: icon-clojure
+    - name: icon-java-bold
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: icon-aws
+    - name: icon-git
   desc: I am an experienced CTO, technical leader, software architect and engineer. I've worked in organisations as varied as multinationals to start-ups and led teams from 5 to 80 in size. I have a deep understanding of modern software engineering, architecture and languages which I use to steer strategy for organisations looking to use software as their differentiator.    # Describe yourself.
 
 # comment
