@@ -20,7 +20,7 @@ author:  # change following line to your information.
   facebook_username:   # Leave blank if you don't have now
   twitter_username: agile_geek  # Leave blank if you don't have now
   email: chris.howejones@gmail.com  # Leave blank if you don't have now
-  cv: https://www.dropbox.com/s/3wnlhhu3dj2looy/Chris%20Howe-Jones%27s%20Resume.pdf?dl=0  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://cv.howe-jones.co.uk/  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-clojure
