@@ -37,7 +37,7 @@ author:  # change following line to your information.
 # analytics
 ## google analytics
 GA:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-#  id: AU-93473370-3
+  id: G-P2YRERBPC2
 
 ## google optimize
 go:
