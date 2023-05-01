@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/agile_geek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.howe-jones.co.uk
+  * I am agile_geek (https://keybase.io/agile_geek) on keybase.
+  * I have a public key ASD_eFt0kw-mg6QaGt_q_lrHI4EjnwYPAjAP4uZb510a1wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012094191130b463e3ceb81b129b5144a645be99aeee96e1f181b30b12521791e3ec0a",
+      "host": "keybase.io",
+      "kid": "0120ff785b74930fa683a41a1adfeafe5ac72381239f060f02300fe2e65be75d1ad70a",
+      "uid": "95fcddcc23af109fc68bcc58d38b8c19",
+      "username": "agile_geek"
+    },
+    "merkle_root": {
+      "ctime": 1682932644,
+      "hash": "aa3a5d2abe97983b095cf1f5db56ff79b9c8eec25bbd049d659f7b6b455419eb50673ee60e3a7cdc38f28c1b6384ca525a84baac3eec25ca498709172b420186",
+      "hash_meta": "34f493107abc2feed1475b69a54c06a7524ff7f70e46eabece6393d06d348d4a",
+      "seqno": 24398371
+    },
+    "service": {
+      "entropy": "35/KO9YiFY2oDCmDjLdSuCJs",
+      "hostname": "www.howe-jones.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1682932666,
+  "expire_in": 504576000,
+  "prev": "602b1bc5234492454d98952bc747a888805f1cdbc79bc0ca70273768549342b0",
+  "seqno": 89,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/3hbdJMPpoOkGhrf6v5axyOBI58GDwIwD+LmW+ddGtcKp3BheWxvYWTESpcCWcQgYCsbxSNEkkVNmJUrx0eoiIBfHNvHm8DKcCc3aFSTQrDEIAnQsADg1lJFa9ddKXjuMuM2O2a/4P8z/suUQNkIDbOxAgHCo3NpZ8RAIx9vkAlSVBfJVzQwXscmSX7Oicdzm8qBSQEN15Z4raRFS0T0/I+lTmkns728JQ0fFtQHqJhDfgBh4UCHQretAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKbfvp6g4ji06VE8TeVXpt08kp6zrFTG61SDetax0Phzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/agile_geek
+
+==================================================================
